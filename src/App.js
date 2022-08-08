@@ -11,6 +11,8 @@ function App() {
     <h1 id="venki"> HAPPY BIRTHDAY VENKATESH</h1>
 
     <h1> HAPPY BIRTHDAY raghu</h1>
+    <img src="https://happybirthdaycakepic.com/pic-preview/Raghu%20Anna/39/chocolate-happy-birthday-cake-for-Raghu%20Anna.jpg" ></img>
+    
 
 
 
